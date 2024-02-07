@@ -1,3 +1,6 @@
+![Coverage](.github/badges/jacoco.svg)
+
+
 A minimal Dropwizard getting started project using Gradle. Use [shadowJar plugin](https://github.com/johnrengelman/shadow) to create fat jars.
 
 To create a fat jar:
@@ -33,4 +36,3 @@ Server is accessible at `localhost:8085`. Port can be configured inside `hello-w
 The original project is created by cakraww and is stored at [dropwizard-gradle](https://github.com/cakraww/dropwizard-gradle) repo.
 This repo contains only the adjusted version of the other one, only for learning purposes.
 
-![Coverage](.github/badges/jacoco.svg)
